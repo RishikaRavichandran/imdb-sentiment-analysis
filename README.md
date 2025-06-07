@@ -11,10 +11,3 @@ This project performs text preprocessing on the IMDB movie reviews dataset. It i
 - Sentiment label encoding
 - Neural network model
 
-The cleaned data is ready for further NLP tasks such as sentiment classification.
-
-## Dataset
-[IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
-
-## Output
-Cleansed reviews with sentiment labels saved in `IMDB_Cleaned.csv`.
