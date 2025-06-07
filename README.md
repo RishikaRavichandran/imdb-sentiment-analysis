@@ -11,3 +11,5 @@ This project performs text preprocessing on the IMDB movie reviews dataset. It i
 - Sentiment label encoding
 - Neural network model
 
+### Dataset 
+[IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
